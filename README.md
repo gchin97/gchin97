@@ -1,8 +1,12 @@
 ### Hi there 👋
- 🔭 I’m currently working on data analytics project /n
+ 🔭 I’m currently working on data analytics project
+
  🌱 I’m currently learning data analytics and data engineering 
+
  🤔 I’m looking for help with sports data visualization
+
  💬 Ask me about cyber security 
+
  📫 How to reach me: graceschinn@gmail.com
 
 <!--
