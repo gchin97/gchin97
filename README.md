@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Hi there 👋 ✨
  🔭 I’m currently working on data analytics project
 
  🌱 I’m currently learning data analytics and data engineering 
