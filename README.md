@@ -1,6 +1,6 @@
 ### ✨ Hi there 👋 ✨
 
-#### 📍 About Me
+#### About Me
 
  🔭 I’m an aspiring Data Analyst and Engineer
  
